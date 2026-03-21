@@ -1,0 +1,22 @@
+Category,Component,Model / Description,Quantity,Connection,Soldering,Approx Size,Price (USD),Source
+Core,LattePanda Alpha 864s,Main processor for OS AI GUI telemetry,1,USB HDMI GPIO,No,11x8x1.5 cm,105.00,DFRobot
+Display,7 inch HDMI touchscreen (FPV),Camera / FPV feed,1,HDMI USB,No,16.4x12.3x1.5 cm,49.56,Amazon
+Display,7 inch HDMI touchscreen (Telemetry),Telemetry display,1,HDMI USB,No,21x15x4 cm,38.29,Amazon
+Communication,SX1278 LoRa Module,Long range communication,1,GPIO UART,Optional,3.2x1.4x0.22 cm,21.60,Amazon
+Communication,USB Wi-Fi 6 Dongle,Internet / AI cloud access,1,USB,No,8x6x1 cm,15.99,Amazon
+Power,DC-DC + UPS Module,Power switching system,1,Battery/Wall input,Optional,6.6x3.9x1.8 cm,6.66,Amazon
+Power,20000mAh USB-C Battery Pack,Main power source,1,DC input,No,13.72x6.99x2.64 cm,40.01,Amazon
+Control,USB Gaming Joystick,Manual control input,1,USB,No,12x6x4 cm,20.00,Amazon
+Control,Rotary Encoders + Buttons,Control inputs,10,GPIO USB,Yes,15 mm each,12.10,AliExpress
+Storage,64GB M.2 SATA SSD,OS logs AI models,1,M.2 SATA,No,10.01x0.71x6.99 cm,22.66,Amazon
+Communication,High-gain SMA Antennas,Signal extension,1,SMA,No,25 cm,9.32,Amazon
+Cooling,5V Cooling Fan,CPU cooling,1,5V,Optional,19x12.9x2.4 cm,11.46,Amazon
+Cabling,General Cables & Connectors,HDMI USB DC cables,1 set,Direct,Optional,Variable,12.50,Various
+Structure,3D Printed Case (PETG),Enclosure,1,N/A,No,50x30x15 cm,12.93,Amazon
+Hardware,Screws and Standoffs,Mounting components,1 set,N/A,No,Small,11.79,AliExpress
+Cabling,USB Cables (A to A / C),Peripheral connections,4,USB,No,Variable,1.12,AliExpress
+Cabling,HDMI Cables,Display connections,2,HDMI,No,Variable,2.80,AliExpress
+Cabling,DC Power Cables,Power connections,2,DC,No,Variable,3.12,AliExpress
+Cabling,GPIO Jumper Wires,Signal wiring,1 pack,GPIO,No,20-30 cm,1.37,AliExpress
+Cabling,SMA Cables,Antenna connections,1 pack,SMA,No,Variable,2.45,AliExpress
+Total,,,,,,,390.73,
